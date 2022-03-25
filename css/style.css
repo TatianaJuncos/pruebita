@@ -1,0 +1,12 @@
+#contenedor{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#contenedor img{
+    width: 300px;
+    
+}
+#txt{
+    
+}
